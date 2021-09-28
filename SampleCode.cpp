@@ -1,4 +1,4 @@
-// C++ program for Merge Sort for Garry bhai
+// python
 #include <iostream>
 using namespace std;
 
