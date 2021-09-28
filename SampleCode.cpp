@@ -1,4 +1,4 @@
-// C++ program for Merge Sort
+// C++ program for Merge Sort for Garry
 #include <iostream>
 using namespace std;
 
