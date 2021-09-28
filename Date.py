@@ -1,4 +1,4 @@
-# Input date
+# arti
 a = input("Enter the Date in DD MM YYYY format: " ).split(" ")
 dd = int(a[0])
 mm = int(a[1])
