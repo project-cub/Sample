@@ -4,7 +4,7 @@ dd = int(a[0])
 mm = int(a[1])
 yy = int(a[2])
 
-# Function for Leap year
+# Shivam
 def leap(y):
     if y%4 == 0 and y%100 != 0:
         leap_year = True
